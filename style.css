@@ -1,0 +1,82 @@
+.card{
+   
+    background-color: aqua;
+    box-sizing: border-box;
+    font-family: cursive;
+    font-weight: bold;
+    width:300px;
+    text-align: justify;
+    padding: 10px;
+    margin:25px auto;
+    display:inline-block
+
+    
+    
+}
+a{
+    text-decoration: none;
+    background-color: black;
+}
+.parent{
+    
+    width: 90%;
+    margin: auto;
+}
+.first{
+    background-image: url(./wall.jpg);
+    color:white;
+    background-size: cover;
+    
+}
+.second{
+    background-image: url(./bridge.jpg);
+    color:white;
+    background-size: cover;
+
+}
+.third{
+    background-image: url(./land.jpg);
+    color:white;
+    background-size: cover;
+
+}
+.fourth{
+    background-image: url(park.jpg);
+    background-size: cover;
+}
+.fifth{
+    background-image: url(./river.jpg);
+    background-size: cover;
+}
+.sixth{
+    background-image: url(./tree.avif);
+    background-size: cover;
+}
+.seventh{
+    background-image: url(./tyre.jpg);
+    background-size: cover;
+}
+.eight{
+    background-image: url(./land.jpg);
+    background-size: cover;
+}
+.nine{
+    background-image: url(./river.jpg);
+    background-size: cover;
+}
+.ten{
+    background-image: url(./tyre.jpg);
+    background-size: cover;
+}
+.eleven{
+    background-image: url(./wall.jpg);
+    background-size: cover;
+}
+.twelve{
+    background-image: url(./road.jpg);
+    background-size: cover;
+}
+
+
+
+
